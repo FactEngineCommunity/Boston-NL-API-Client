@@ -1,0 +1,11 @@
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\00-FactEngine\01-Product\01-Products\Boston-NL-API-Client\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
